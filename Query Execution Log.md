@@ -1,5 +1,5 @@
 # Nashville Housing Cleanup
-## SQL Query Progression
+## Query Execution Log
 **Author**: Bharathkumar Tamilarasu <br />
 **Email**: bharathkumar.t.17@gmail.com <br />
 **Website**: https://bharathkumart17.wixsite.com/portfolio <br />
