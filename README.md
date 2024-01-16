@@ -12,7 +12,7 @@ This is a cleanup of housing data in Nashville using SQL. We're organizing and f
 
 ## Datasets used
 Key datasets for this case study
-- <strong>Nashville Housing Data for Data Cleaning.csv</strong>: Chicago neighborhoods and areas.
+- <strong>Nashville Housing Data for Data Cleaning.csv</strong>: Details about Nashville Housing. Check out the dataset [here](https://github.com/Bharathkumar-Tamilarasu/Nashville-Housing-Cleanup_SQL/blob/main/Nashville%20Housing%20Data%20for%20Data%20Cleaning.csv)
 
 
 ## Entity Relationship Diagram
