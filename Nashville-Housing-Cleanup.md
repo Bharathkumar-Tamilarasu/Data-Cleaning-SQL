@@ -36,7 +36,7 @@ SET SALEDATE = TO_DATE(SALEDATE,'Month DD, YYYY')
 | 43070    | 29-01-2016               |
 | 22714    | 10-10-2014               |
 
-**(ii).**  Update wont change the data type. Hence changing the Data Type of that to date
+**(ii).**  Update wont change the data type. Hence changing the data type of that to date
 
 ````sql
 ALTER TABLE PROPERTY
@@ -135,7 +135,7 @@ SET CITY = SUBSTRING(PROPERTYADDRESS FROM POSITION(',' IN PROPERTYADDRESS) + 2),
 | 45290    | 026 05 0 017.00  | 208  EAST AVE, GOODLETTSVILLE      | 208  EAST AVE      | GOODLETTSVILLE |
 | 43080    | 033 06 0 041.00  | 1129  CAMPBELL RD, GOODLETTSVILLE  | 1129  CAMPBELL RD  | GOODLETTSVILLE |
 
-**4.**  Spliting Owner Address (using split_part)
+**4.**  Spliting Owner Address (using splitpart)
 
 ````sql
 -- Adding three columns (Address, City and State)
@@ -246,7 +246,7 @@ WHERE UNIQUEID IN
 | 081 11 0 168.00 | 1710  DR D B TODD JR BLVD, NASHVILLE | 13-02-2015 | 44500     | 20150218-0013602 | 1710  DR D B TODD JR BLVD, NASHVILLE, TN |
 | 081 11 0 495.00 | 1718  ARTHUR AVE, NASHVILLE          | 09-02-2015 | 36500     | 20150210-0012450 | 1718  ARTHUR AVE, NASHVILLE, TN          |
 
-**7.**  Dropping Unused columns
+**7.**  Dropping unused columns
 
 ````sql
 ALTER TABLE PROPERTY
@@ -255,17 +255,7 @@ DROP COLUMN OWNERADDRESS,
 DROP COLUMN TAXDISTRICT
 ````
 
-**Results: Before Execution**
-
-
-
-
-**Results: After Execution**
-
-
-To be continued....
-
-:exclamation: If you find this repository helpful, please consider giving it a :star:. Thanks! :exclamation:
+### **Your time and interest in viewing my project are greatly appreciated. Thank you. 😃!**
 
 
 
