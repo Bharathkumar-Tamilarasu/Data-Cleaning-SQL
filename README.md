@@ -8,7 +8,7 @@
 ## Introduction
 This is a cleanup of housing data in Nashville using SQL. We're organizing and fixing the data to make sure it's accurate and consistent. This helps us get better and more reliable information about housing in Nashville.
 
-* [Query Execution Log]([./questions_and_answers.md](https://github.com/Bharathkumar-Tamilarasu/Nashville-Housing-Cleanup_SQL/blob/main/Query%20Execution%20Log.md?plain=1))
+* [Query Execution Log](https://github.com/Bharathkumar-Tamilarasu/Nashville-Housing-Cleanup_SQL/blob/main/Query%20Execution%20Log.md)
 
 ## Datasets used
 Key datasets for this case study
