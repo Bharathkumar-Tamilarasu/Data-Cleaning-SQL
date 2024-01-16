@@ -12,10 +12,10 @@ This is a cleanup of housing data in Nashville using SQL. We're organizing and f
 
 ## Datasets used
 Key datasets for this case study
-- <strong>Nashville Housing Data for Data Cleaning.csv</strong>: Details about Nashville Housing. Check out the dataset [here](https://github.com/Bharathkumar-Tamilarasu/Nashville-Housing-Cleanup_SQL/blob/main/Nashville%20Housing%20Data%20for%20Data%20Cleaning.csv)
+- <strong>Nashville Housing Data for Data Cleaning.csv</strong>: Details about Nashville Housing. Check out the dataset [here](https://github.com/Bharathkumar-Tamilarasu/Nashville-Housing-Cleanup_SQL/blob/main/Nashville%20Housing%20Data%20for%20Data%20Cleaning.csv).
 
 
 ## Entity Relationship Diagram
-![alt text](./images/ERD.PNG)
+![alt text](https://github.com/Bharathkumar-Tamilarasu/Nashville-Housing-Cleanup_SQL/blob/main/ERD.png)
 
-:exclamation: If you find this repository helpful, please consider giving it a :star:. Thanks! :exclamation:
+### *Your time and interest in viewing my project are greatly appreciated. Thank you. 😃!*
