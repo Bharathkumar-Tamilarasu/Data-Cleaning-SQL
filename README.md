@@ -24,6 +24,7 @@ Key datasets for this case study
 ## Entity Relationship Diagram
 ![alt text](https://github.com/Bharathkumar-Tamilarasu/Nashville-Housing-Cleanup_SQL/blob/main/ERD.png)
 
+##
 ![Housing 2](https://github.com/Bharathkumar-Tamilarasu/Nashville-Housing-Cleanup/blob/main/Housing_3.jpg)
 
 ### Your time and interest in viewing my project are greatly appreciated. Thank you. 😃!
