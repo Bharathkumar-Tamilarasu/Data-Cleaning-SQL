@@ -16,6 +16,10 @@
 * This project involves cleaning up housing data in Nashville using SQL.
 * I organized and rectified the data to ensure accuracy and consistency, providing more reliable information about housing in Nashville.
 
+## Data Analysis
+
+Find out the SQL analysis below
+
 * [Query Execution Log](https://github.com/Bharathkumar-Tamilarasu/Nashville-Housing-Cleanup_SQL/blob/main/Query%20Execution%20Log.md)
 
 ## Datasets used
