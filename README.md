@@ -5,8 +5,8 @@
 
 **Author**: Bharathkumar Tamilarasu <br />
 **Email**: bharathkumar.t.17@gmail.com <br />
-**Website**: https://bharathkumart17.wixsite.com/portfolio <br />
-**LinkedIn**: https://www.linkedin.com/in/bharathkumar-tamilarasu-218429222/  <br />
+**Website**: https://www.datascienceportfol.io/bharathkumar_t <br />
+**LinkedIn**: https://www.linkedin.com/in/bharathkumartamilarasu/  <br />
 
 ##
 ![Housing 1](https://github.com/Bharathkumar-Tamilarasu/Nashville-Housing-Cleanup/blob/main/Housing_2.jpg)
