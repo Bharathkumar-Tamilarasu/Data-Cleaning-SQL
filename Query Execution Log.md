@@ -2,8 +2,8 @@
 ## Query Execution Log
 **Author**: Bharathkumar Tamilarasu <br />
 **Email**: bharathkumar.t.17@gmail.com <br />
-**Website**: https://bharathkumart17.wixsite.com/portfolio <br />
-**LinkedIn**: https://www.linkedin.com/in/bharathkumar-tamilarasu-218429222/  <br />
+**Website**: https://www.datascienceportfol.io/bharathkumar_t <br />
+**LinkedIn**: https://www.linkedin.com/in/bharathkumartamilarasu/  <br />
 ##
 
 **1.**  Transforming data type of Saledate
